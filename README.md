@@ -7,3 +7,6 @@
 - Users can favourite their desired drinks and can see on Favorite page
 - Users can add comments on cocktails with their user's name
 - Users can delete comments on cocktails
+
+# API
+[https://www.thecocktaildb.com/api.php]
