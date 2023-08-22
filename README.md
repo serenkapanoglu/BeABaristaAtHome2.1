@@ -1,6 +1,6 @@
 # BeABaristaAtHome2
 ## FEATURES
-- Searching cocktails by name
+* Searching cocktails by name
 - Sign-in and Sign-up using first name, last name, username, and password
 - Password protected by Bcrypt encryption
 - Users can see the cocktail's recipe and ingredients
