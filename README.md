@@ -9,4 +9,10 @@
 - Users can delete comments on cocktails
 
 # API
-[https://www.thecocktaildb.com/api.php]
+https://www.thecocktaildb.com/api.php
+
+# TECH STACK
+- HTML
+- CSS,Bootstrap
+- PYTHON -Flask, SQLAlchemy
+
